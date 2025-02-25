@@ -16,6 +16,7 @@ MyTan 补全计划：字数统计
 
 📋 安装指南
 首先安装一个用户脚本管理器：
+[Tampermonkey](https://www.tampermonkey.net/) (推荐)
 
 安装本脚本：
 点击这里安装https://github.com/DIOenNI/mytan_tools/raw/main/mytan_counter.user.js
