@@ -19,7 +19,7 @@ MyTan 补全计划：字数统计
 [Tampermonkey](https://www.tampermonkey.net/) (推荐)
 
 安装本脚本：
-点击这里安装https://github.com/DIOenNI/mytan_tools/raw/main/mytan_counter.user.js
+点击这里安装https://github.com/DIOenNI/mytan_tools/raw/main/mytan_counter.js
 
 或者复制脚本代码到您的用户脚本管理器中手动创建
 访问 MyTan 网站，字数统计功能将自动启用
